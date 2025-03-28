@@ -19,8 +19,7 @@ Ensure you have the following installed:
 To clone this repository, open a terminal and run:
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/Housing-Prices-Kaggle.git
-cd Housing-Prices-Kaggle
+git clone https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition.git
 ```
 
 ### Run Jupyter Notebook
@@ -41,9 +40,9 @@ The dataset used in this project is provided by Kaggle. You can download it from
 
 The solution includes:
 
-- Data preprocessing and feature engineering
+- Data preprocessing
 - Model selection and training using Scikit-Learn
-- Performance evaluation using RMSE
+- Performance evaluation using MAE
 
 ## Contributing
 
