@@ -54,5 +54,5 @@ This project is released under the MIT License.
 
 ## Contact
 
-For any questions, reach out via [GitHub Issues](https://github.com/YOUR_GITHUB_USERNAME/Housing-Prices-Kaggle/issues).
+For any questions, reach out via [GitHub Issues](https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition/issues).
 
