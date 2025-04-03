@@ -1,28 +1,45 @@
 # Housing Prices Competition for Kaggle Learn Users
+
 ![image](https://github.com/user-attachments/assets/a1880b19-b161-43a0-9566-239512d2ef16)
-This repository contains a solution for the **Housing Prices Competition for Kaggle Learn Users**. The goal of this competition is to predict house prices based on various features.
 
-## Getting Started
+## Introduction
 
-Follow these steps to clone the repository and run the Jupyter Notebook on your local machine.
+This repository contains a solution for the [**Housing Prices Competition for Kaggle Learn Users**](https://www.kaggle.com/c/home-data-for-ml-course/overview). The goal of this competition is to predict house prices based on various features.
 
-### Prerequisites
+## Table of Contents
 
-Ensure you have the following installed:
+- [Introduction](#introduction)
+- [Model and Approach](#model-and-approach)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [License](#license)
 
-- Python
-- Jupyter Notebook
-- Required libraries: `pandas`, `scikit-learn`
+## Model and Approach
 
-### Clone the Repository
+The solution includes:
 
-To clone this repository, open a terminal and run:
+- Data preprocessing
+- Model selection and training using Scikit-Learn
+- Performance evaluation using MAE
 
-```sh
-git clone https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition.git
-```
+## Installation
 
-### Run Jupyter Notebook
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition.git
+    ```
+
+5. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
 
 Start Jupyter Notebook by running:
 
@@ -36,23 +53,7 @@ Then, open the `solution.ipynb` file to explore the solution.
 
 The dataset used in this project is provided by Kaggle. You can download it from the [competition page](https://www.kaggle.com/c/home-data-for-ml-course/).
 
-## Model and Approach
-
-The solution includes:
-
-- Data preprocessing
-- Model selection and training using Scikit-Learn
-- Performance evaluation using MAE
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests with improvements or new features!
 
 ## License
 
 This project is released under the MIT License.
-
-## Contact
-
-For any questions, reach out via [GitHub Issues](https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition/issues).
-
