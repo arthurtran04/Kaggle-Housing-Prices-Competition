@@ -1,10 +1,10 @@
 # Housing Prices Competition for Kaggle Learn Users
 
-![image](https://github.com/user-attachments/assets/a1880b19-b161-43a0-9566-239512d2ef16)
-
 ## Introduction
 
 This repository contains a solution for the [**Housing Prices Competition for Kaggle Learn Users**](https://www.kaggle.com/c/home-data-for-ml-course/overview). The goal of this competition is to predict house prices based on various features.
+
+![image](https://github.com/user-attachments/assets/a1880b19-b161-43a0-9566-239512d2ef16)
 
 ## Table of Contents
 
