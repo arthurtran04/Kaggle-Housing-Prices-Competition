@@ -47,7 +47,7 @@ Start Jupyter Notebook by running:
 jupyter notebook
 ```
 
-Then, open the `solution.ipynb` file to explore the solution.
+Then, inside the Jupyter Web Application, open the `solution.ipynb` file to explore the solution.
 
 ## Dataset
 
