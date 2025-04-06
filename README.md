@@ -9,11 +9,24 @@ This repository contains a solution for the [**Housing Prices Competition for Ka
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Project Structure](#project-structure)
 - [Model and Approach](#model-and-approach)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [License](#license)
+
+## Project Structure
+
+Kaggle-Housing-Prices-Competition/
+├── data/
+│   ├── train.csv
+│   └── test.csv
+├── submission.csv
+├── solution.ipynb
+├── requirements.txt
+├── LICENSE
+└── README.md
 
 ## Model and Approach
 
