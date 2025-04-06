@@ -18,6 +18,7 @@ This repository contains a solution for the [**Housing Prices Competition for Ka
 
 ## Project Structure
 
+```
 Kaggle-Housing-Prices-Competition/
 ├── data/
 │   ├── train.csv
@@ -27,6 +28,7 @@ Kaggle-Housing-Prices-Competition/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
 
 ## Model and Approach
 
