@@ -23,6 +23,7 @@ Kaggle-Housing-Prices-Competition/
 ├── data/
 │   ├── train.csv
 │   └── test.csv
+├── .gitignore
 ├── submission.csv
 ├── solution.ipynb
 ├── requirements.txt
