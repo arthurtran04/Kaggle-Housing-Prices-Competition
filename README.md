@@ -9,12 +9,18 @@ This repository contains a solution for the [**Housing Prices Competition for Ka
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Prerequirements](#prerequirements)
 - [Project Structure](#project-structure)
 - [Model and Approach](#model-and-approach)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [License](#license)
+
+## Prerequirements
+
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue) or above</br>
+[Download here](https://www.python.org/downloads)
 
 ## Project Structure
 
@@ -59,11 +65,11 @@ To run this project locally, follow these steps:
 
 Start Jupyter Notebook by running:
 
-```sh
+```bash
 jupyter notebook
 ```
 
-Then, inside the Jupyter Web Application, find the `Kaggle-Housing-Prices-Competition` directory and open the `solution.ipynb` file to explore the solution.
+Then inside the Jupyter Web Application running at http://localhost:8888, find the `Kaggle-Housing-Prices-Competition` directory and open the `solution.ipynb` file to explore the solution.
 
 ## Dataset
 
