@@ -15,7 +15,6 @@ This repository contains a solution for the [**Housing Prices Competition for Ka
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [License](#license)
 
 ## Prerequirements
 
