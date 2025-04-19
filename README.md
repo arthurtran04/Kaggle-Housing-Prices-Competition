@@ -46,7 +46,7 @@ The solution includes:
 
 ## Installation
 
-To run this project locally, follow these steps:
+To install this project, open your Terminal and follow these steps:
 
 1. Clone the repository:
 
@@ -73,8 +73,3 @@ Then inside the Jupyter Web Application running at http://localhost:8888, find t
 ## Dataset
 
 The dataset used in this project is provided by Kaggle. You can download it from the [competition page](https://www.kaggle.com/c/home-data-for-ml-course/).
-
-
-## License
-
-This project is released under the MIT License.
