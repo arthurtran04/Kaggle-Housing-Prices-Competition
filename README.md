@@ -49,25 +49,25 @@ To install this project, open your Terminal and follow these steps:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition.git
+    ```sh
+    $ git clone https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition.git
     ```
 
 5. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
+    ```sh
+    $ pip install -r requirements.txt
     ```
 
 ## Usage
 
 Start Jupyter Notebook by running:
 
-```bash
-jupyter notebook
+```sh
+$ jupyter notebook
 ```
 
-Then inside the Jupyter Web Application running at http://localhost:8888, find the `Kaggle-Housing-Prices-Competition` directory and open the `solution.ipynb` file to explore the solution.
+Then inside the Jupyter Web Application running at `http://localhost:8888`, find the `Kaggle-Housing-Prices-Competition` directory and open the `solution.ipynb` file to explore the solution.
 
 ## Dataset
 
