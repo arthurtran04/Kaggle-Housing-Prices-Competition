@@ -54,6 +54,12 @@ To install this project, open your Terminal and follow these steps:
     $ git clone https://github.com/arthurtran04/kaggle-housing-prices-competition.git
     ```
 
+2. Run the `cd` command to change the directory to `kaggle-housing-prices-competition`:
+
+    ```sh
+    $ cd "$(find . -type d -name "kaggle-housing-prices-competition")"
+    ```
+
 3. Install the required dependencies in a virtual environment `.venv`:
 
     ```sh
