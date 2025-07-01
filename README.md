@@ -23,7 +23,7 @@ This repository contains a solution for the [**Housing Prices Competition for Ka
 ## Project Structure
 
 ```
-Kaggle-Housing-Prices-Competition/
+kaggle-housing-prices-competition/
 ├── data/
 │   ├── train.csv
 │   └── test.csv
@@ -50,7 +50,7 @@ To install this project, open your Terminal and follow these steps:
 1. Clone the repository:
 
     ```sh
-    $ git clone https://github.com/arthurtran04/Kaggle-Housing-Prices-Competition.git
+    $ git clone https://github.com/arthurtran04/kaggle-housing-prices-competition.git
     ```
 
 5. Install the required dependencies:
@@ -67,7 +67,7 @@ Start Jupyter Notebook by running:
 $ jupyter notebook
 ```
 
-Then inside the Jupyter Web Application running at `http://localhost:8888`, find the `Kaggle-Housing-Prices-Competition` directory and open the `solution.ipynb` file to explore the solution.
+Then inside the Jupyter Web Application running at `http://localhost:8888`, find the `kaggle-housing-prices-competition` directory and open the `solution.ipynb` file to explore the solution.
 
 ## Dataset
 
