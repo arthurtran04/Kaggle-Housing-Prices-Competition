@@ -12,7 +12,6 @@ This repository contains a solution for the [**Housing Prices Competition for Ka
 - [Prerequirements](#prerequirements)
 - [Project Structure](#project-structure)
 - [Model and Approach](#model-and-approach)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 
@@ -44,9 +43,7 @@ The solution includes:
 - Model selection and training using Scikit-Learn
 - Performance evaluation using MAE
 
-## Installation
-
-To install this project, open your Terminal and follow these steps:
+## Usage
 
 1. Clone the repository:
 
@@ -54,27 +51,11 @@ To install this project, open your Terminal and follow these steps:
     $ git clone https://github.com/arthurtran04/kaggle-housing-prices-competition.git
     ```
 
-2. Run the `cd` command to change the directory to `kaggle-housing-prices-competition`:
+2. Start Jupyter Notebook by running:
 
     ```sh
-    $ cd "$(find . -type d -name "kaggle-housing-prices-competition")"
+    $ jupyter notebook
     ```
-
-3. Install the required dependencies in a virtual environment `.venv`:
-
-    ```sh
-    $ python3 -m venv .venv
-    source .venv/bin/activate
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-Start Jupyter Notebook by running:
-
-```sh
-$ jupyter notebook
-```
 
 Then inside the Jupyter Web Application running at `http://localhost:8888`, find the `kaggle-housing-prices-competition` directory and open the `solution.ipynb` file to explore the solution.
 
