@@ -27,8 +27,6 @@ kaggle-housing-prices-competition/
 ├── data/
 │   ├── train.csv
 │   └── test.csv
-├── .gitignore
-├── submission.csv
 ├── solution.ipynb
 ├── LICENSE
 └── README.md
