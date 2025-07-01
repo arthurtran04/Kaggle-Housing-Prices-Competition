@@ -1,4 +1,2 @@
-jupyterlab
-notebook
 pandas
 scikit-learn
