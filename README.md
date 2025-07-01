@@ -54,10 +54,12 @@ To install this project, open your Terminal and follow these steps:
     $ git clone https://github.com/arthurtran04/kaggle-housing-prices-competition.git
     ```
 
-5. Install the required dependencies:
+3. Install the required dependencies in a virtual environment `.venv`:
 
     ```sh
-    $ pip install -r requirements.txt
+    $ python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
     ```
 
 ## Usage
