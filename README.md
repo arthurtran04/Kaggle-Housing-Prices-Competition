@@ -19,6 +19,7 @@ This repository contains a solution for the [**Housing Prices Competition for Ka
 ## Prerequirements
 
 - ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue) or above: [Download here](https://www.python.org/downloads)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-orange): [Download here](https://jupyter.org/install)
 
 ## Project Structure
 
