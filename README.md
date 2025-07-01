@@ -30,7 +30,6 @@ kaggle-housing-prices-competition/
 ├── .gitignore
 ├── submission.csv
 ├── solution.ipynb
-├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
